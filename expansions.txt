@@ -61,6 +61,7 @@ Naughty Push Message
 Nautical Pea Maker
 Nautical Pirate Moustache
 Nautical Poseidon Mythology
+Naval Peacetime Maneuvers
 Navel Piercing Madness
 Navy Penguin Mariachi
 Neanderthals Paint Mammals
@@ -100,6 +101,7 @@ Nerdy People Matriculate
 Nerdy Programmers Mingling
 Nerdy Pun Mavens
 Nerfing Powerful Megalomaniacs
+Nervous Production Maintenance
 Nestable Processes Mutate
 Net Possiblity Multiplier
 Network Pipe Manufacturer
@@ -153,6 +155,7 @@ Nice People Matter
 Nice Philanthropist Metalhead
 Nice Poodle, Mister
 Nice Pottery Mug
+Nice Product, Mister
 Nicely Packaged Make
 Nicely Presented Misnomer
 Nicer Package Manager
@@ -282,6 +285,7 @@ Now Printing Money
 Now, Please Meander
 Now, Publish Me
 Now, Push Me
+Now: Private Modules!
 npm provides modules
 npm: package manager
 npm: possibly marvellous
